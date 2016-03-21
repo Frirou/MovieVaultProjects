@@ -1,0 +1,81 @@
+﻿@model IEnumerable<MovieVault.Domain.cinematheater>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+</style>
+
+
+@using (Html.BeginForm())
+{
+    {
+
+
+        <br />
+
+
+        <div id="header-logo-right">
+            <form method="get" class="searchform" action="#">
+                <label for="s" class="assistive-text">Search</label>
+                @Html.TextBox("Address")
+                <input type="submit" class="submit" name="submit" id="submit" value="Search" />
+            </form>
+            <!--div class="advertisement"><a href="http://www.google.com" target="_blank"><img src="~/Content/Skyfull/images/demo-content/advertisement.png" alt="Ad" width="468" height="60"></a></div-->
+
+        </div><!-- close #header-logo-right -->
+
+    }
+
+}
+<table class="table" style="width: 800px;">
+    <tr>
+
+        <th style="text-align:left">
+            <h3>
+                @Html.DisplayNameFor(model => model.address)
+            </h3>
+        </th>
+
+        
+
+
+        <th style="text-align:left">
+            <h3>
+                @Html.DisplayNameFor(model => model.name)
+            </h3>
+        </th>
+        <th style="text-align:left"><h3>Map</h3></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+
+            <td>
+                <h4>
+                    @Html.DisplayFor(modelItem => item.address)
+                </h4>
+            </td>
+
+            
+
+            <td>
+                <h4>
+                    @Html.DisplayFor(modelItem => item.name)
+                </h4>
+            </td>
+            <td>
+                <h4> @Html.ActionLink("position", "SeePosition", new { id = item.id_Theater })</h4>
+
+            </td>
+        </tr>
+    }
+
+</table>

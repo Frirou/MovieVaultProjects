@@ -1,0 +1,68 @@
+﻿@model MovieVault.Domain.personne
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+
+<!-- Main content -->
+
+
+@Styles.Render("~/Content/css/external/jquery.selectbox.css")
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    <div class="wrapper">
+        <div class="control-panel">
+            <a href="#" class="btn btn--sign">Sign in</a>
+            <a href="#" class="btn btn-md btn--warning btn--book">Book a ticket</a>
+        </div>
+
+        <form id="login-form" @*class="login" method='get'*@ novalidate=''>
+            <p class="login__title">sign in <br><span class="login-edition">welcome to Movie Vault</span></p>
+
+            <div class="social social--colored">
+                <a href='#' class="social__variant fa fa-facebook"></a>
+                <a href='#' class="social__variant fa fa-twitter"></a>
+                <a href='#' class="social__variant fa fa-tumblr"></a>
+            </div>
+
+            <p class="login__tracker">or</p>
+
+            <div class="field-wrap">
+                @Html.EditorFor(model => model.login, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.login, "", new { @class = "text-danger" })
+
+            
+
+                @Html.PasswordFor(model => model.password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+               
+
+                <br />
+
+                <input type='checkbox' id='#informed' class='login__check styled'>
+                <label for='#informed' class='login__check-info'>remember me</label>
+            </div>
+
+            <div class="login__control">
+                <button type='submit' class="btn btn-md btn--warning btn--wider">sign in</button>
+                <a href="#" class="login__tracker form__tracker">Forgot password?</a>
+            </div>
+        </form>
+        <div class="clearfix"></div>
+        </div>
+    <section class="container">
+        </section>
+        }
+
+        @*<div>
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+
+            @section Scripts {
+                @Scripts.Render("~/bundles/jqueryval")
+            }*@

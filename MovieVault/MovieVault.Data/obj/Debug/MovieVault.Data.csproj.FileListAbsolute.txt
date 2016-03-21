@@ -1,0 +1,35 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Data.dll.config
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Data.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Data.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Domain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Domain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.Migrations.inchallah3ad.resources
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.csproj.GenerateResource.Cache
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Data.dll.config
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Data.dll
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Data.pdb
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.dll
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Domain.dll
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\MovieVault.Domain.pdb
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.xml
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\fr\EntityFramework.resources.dll
+D:\bb\MovieVault\MovieVault.Data\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\bb\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.csprojResolveAssemblyReference.cache
+D:\bb\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.Migrations.inchallah3ad.resources
+D:\bb\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.csproj.GenerateResource.Cache
+D:\bb\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.dll
+D:\bb\MovieVault\MovieVault.Data\obj\Debug\MovieVault.Data.pdb

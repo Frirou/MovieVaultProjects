@@ -1,0 +1,123 @@
+﻿@model IEnumerable<MovieVault.Domain.eventt>
+
+@{
+    ViewBag.Title = "index1";
+}
+
+<h2>index1</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.idEvent)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.begin_date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.blocked)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.end_date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.latitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.longitude)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.moyRate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nbCheckIn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nb_rate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nbrTicket)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.rate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.typeevt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_Movie)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.personne_id)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.idEvent)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.begin_date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.blocked)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.end_date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.latitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.longitude)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.moyRate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nbCheckIn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nb_rate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nbrTicket)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.rate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.typeevt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_Movie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.personne_id)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

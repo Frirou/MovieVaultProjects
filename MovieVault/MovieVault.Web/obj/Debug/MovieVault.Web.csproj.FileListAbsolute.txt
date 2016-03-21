@@ -1,0 +1,162 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Web.dll.config
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Web.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Web.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Data.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Domain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Service.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Owin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Helpers.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Mvc.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Optimization.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Razor.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.WebPages.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\WebGrease.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Data.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Domain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\MovieVault.Service.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Helpers.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Mvc.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Optimization.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.Razor.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.WebPages.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\obj\Debug\MovieVault.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\obj\Debug\MovieVault.Web.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\obj\Debug\MovieVault.Web.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Web\bin\Owin.Security.Providers.dll
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Web.dll.config
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Web.dll
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Web.pdb
+D:\bb\MovieVault\MovieVault.Web\bin\Antlr3.Runtime.dll
+D:\bb\MovieVault\MovieVault.Web\bin\EntityFramework.dll
+D:\bb\MovieVault\MovieVault.Web\bin\EntityFramework.SqlServer.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Data.dll
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Domain.dll
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Service.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Newtonsoft.Json.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Owin.dll
+D:\bb\MovieVault\MovieVault.Web\bin\Owin.Security.Providers.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Helpers.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Mvc.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Optimization.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Razor.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Deployment.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.WebPages.dll
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Razor.dll
+D:\bb\MovieVault\MovieVault.Web\bin\WebGrease.dll
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Data.pdb
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Domain.pdb
+D:\bb\MovieVault\MovieVault.Web\bin\MovieVault.Service.pdb
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Helpers.xml
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Mvc.xml
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Optimization.xml
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.Razor.xml
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.WebPages.xml
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Deployment.xml
+D:\bb\MovieVault\MovieVault.Web\bin\System.Web.WebPages.Razor.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Antlr3.Runtime.pdb
+D:\bb\MovieVault\MovieVault.Web\bin\Newtonsoft.Json.xml
+D:\bb\MovieVault\MovieVault.Web\bin\EntityFramework.xml
+D:\bb\MovieVault\MovieVault.Web\bin\EntityFramework.SqlServer.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\bb\MovieVault\MovieVault.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.Helpers.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.Mvc.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.Optimization.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.Razor.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.WebPages.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\EntityFramework.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\bb\MovieVault\MovieVault.Web\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\bb\MovieVault\MovieVault.Web\obj\Debug\MovieVault.Web.csprojResolveAssemblyReference.cache
+D:\bb\MovieVault\MovieVault.Web\obj\Debug\MovieVault.Web.dll
+D:\bb\MovieVault\MovieVault.Web\obj\Debug\MovieVault.Web.pdb

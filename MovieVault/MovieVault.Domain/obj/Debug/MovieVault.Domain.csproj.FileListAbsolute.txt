@@ -1,0 +1,5 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Domain\bin\Debug\MovieVault.Domain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Domain\bin\Debug\MovieVault.Domain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Domain\obj\Debug\MovieVault.Domain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Domain\obj\Debug\MovieVault.Domain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Domain\obj\Debug\MovieVault.Domain.csprojResolveAssemblyReference.cache

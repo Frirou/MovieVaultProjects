@@ -1,0 +1,100 @@
+﻿@model MovieVault.Domain.moviesheet
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div id="contact-wrapper">
+
+    @using (Html.BeginForm(Html.BeginForm("CreateMovie", "Movie", FormMethod.Post, new { enctype = "multipart/form-data" })))
+    {
+        @Html.AntiForgeryToken()
+    
+        <div class="form-horizontal" style="margin-top: 100px; margin-bottom: 100px; margin-right: 150px; margin-left: 50px;">
+            <center><h3>Add Movie</h3></center>
+            <hr />
+            @Html.ValidationSummary(true)
+
+
+
+            <div class="field-wrap">
+                <h3>
+                    @Html.LabelFor(model => model.type, new { @class = "login__input" })
+                </h3>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.type)
+
+                    @Html.ValidationMessageFor(model => model.type)
+                </div>
+            </div>
+
+            <div class="field-wrap">
+                <h3>
+                    @Html.LabelFor(model => model.dateOfRelasing, new { @class = "login__input" })
+                </h3>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.dateOfRelasing)
+                    @Html.ValidationMessageFor(model => model.dateOfRelasing)
+                </div>
+            </div>
+
+            <div class="field-wrap">
+                <h3>
+                    @Html.LabelFor(model => model.title, new { @class = "login__input" })
+                </h3>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.title)
+                    @Html.ValidationMessageFor(model => model.title)
+                </div>
+            </div>
+
+            <div class="field-wrap">
+                <h3>@Html.LabelFor(model => model.description, new { @class = "login__input" })</h3>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.description)
+                    @Html.ValidationMessageFor(model => model.description)
+                </div>
+            </div>
+            <div class="field-wrap">
+                <h3>
+                    @Html.LabelFor(model => model.img, new { @class = "login__input" })
+                </h3>
+                <div class="col-md-10">
+                    @Html.TextBox("imagep","", new { type = "file" })
+                    @Html.ValidationMessageFor(model => model.img)
+                </div>
+            </div>
+
+            
+
+            
+
+            <div class="field-wrap" style="display: none;">
+                <h3>
+                    @Html.LabelFor(model => model.personne.id, new { @class = "login__input" })
+                </h3>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.personne.id)
+                    @Html.ValidationMessageFor(model => model.personne.id)
+                </div>
+            </div>
+
+           
+            <br />
+            <div class="field-wrap">
+                <div class="col-md-offset-2 col-md-10">
+                    <center><input type="submit" value="Create" class="btn btn-default" /></center>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+        @*<div>
+                    <h4>@Html.ActionLink("Back to List", "Index")</h4>
+                </div>
+            </div>
+
+
+            @section Scripts {
+                @Scripts.Render("~/bundles/jqueryval")
+            }*@

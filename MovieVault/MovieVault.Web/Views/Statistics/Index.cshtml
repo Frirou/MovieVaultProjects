@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MovieVault.Domain.Statisitcs>
+@Scripts.Render("~/Scripts/Chart.js")
+<div style="width: 50%">
+    <canvas id="canvas" height="450" width="600"></canvas>
+</div>
+@using (@Html.BeginForm("SendMail", "SendMail", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <section class="form-field">
+        <!-- form content here -->
+        SUBJECT  <input type="text" name="subject" width="40"><br /><br />
+        MESSAGE  <textarea cols="40" rows="10" name="body"></textarea><br /><br />
+        <input type="submit" name="Save" value="Save" />
+    </section>
+}
+<script>
+    var barChartData = {
+        labels: [
+                 @foreach (var item in Model)
+                    {
+                     @:" @Html.DisplayFor(modelItem => item.eval.movie.title)",
+                    }
+        ],
+        datasets: [
+			{
+			    fillColor: "rgba(720,220,220,0.5)",
+			    strokeColor: "rgba(520,220,220,0.8)",
+			    highlightFill: "rgba(220,230,220,0.75)",
+			    data: [
+                 @foreach (var item in Model)
+                    {
+                        @Html.DisplayFor(model => item.avg)@:,
+                    }
+			    ]
+			},
+        ]
+    }
+    window.onload = function () {
+        var ctx = document.getElementById("canvas").getContext("2d");
+        window.myBar = new Chart(ctx).Bar(barChartData, {
+            responsive: true
+        });
+    }
+</script>

@@ -1,0 +1,12 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\MovieVault.Service.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\MovieVault.Service.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\MovieVault.Data.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\MovieVault.Domain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\MovieVault.Data.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\MovieVault.Domain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\obj\Debug\MovieVault.Service.csprojResolveAssemblyReference.cache
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\obj\Debug\MovieVault.Service.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\MovieVault\MovieVault.Service\obj\Debug\MovieVault.Service.pdb

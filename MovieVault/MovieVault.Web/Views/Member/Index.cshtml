@@ -1,0 +1,66 @@
+﻿@model IEnumerable<MovieVault.Domain.member>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    {
+        <table>
+            <tr>
+                <td>
+                    <div>
+                        Search by name: @Html.TextBox("Name")
+
+                    </div>
+                </td>
+                <td>
+                    <input type="submit" value="Search" id="submit" />
+                </td>
+                <td>
+                    @ViewBag.Message
+
+                </td>
+            </tr>
+        </table><br />
+    }
+
+}
+<table class="table" style="width: 1000px;">
+    <tr>
+
+
+        <th style="text-align:left">
+            <h3>@Html.DisplayNameFor(model => model.date_of_birth)</h3>
+        </th>
+        <th style="text-align:left">
+            <h3> @Html.DisplayNameFor(model => model.name)</h3>
+        </th>
+        <th style="text-align:left">
+            <h3> @Html.DisplayNameFor(model => model.nationality)</h3>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+
+            <td>
+                <h5> @Html.DisplayFor(modelItem => item.date_of_birth)</h5>
+            </td>
+            <td>
+                <h5> @Html.DisplayFor(modelItem => item.name)</h5>
+            </td>
+            <td>
+                <h5> @Html.DisplayFor(modelItem => item.nationality)</h5>
+            </td>
+
+        </tr>
+    }
+
+</table>
